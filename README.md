@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akaniket5544@gmail.com**
 
-- ⚡ Fun fact **I am Quick Learner...**
+- ⚡  **I am Quick Learner...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
