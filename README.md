@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anakishwaraa&label=Profile%20views&color=0e75b6&style=flat" alt="anakishwaraa" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **AI AGENT**
 
-- 💬 Ask me about **C++ , Python , HTML ,CSS , JavaScript**
+- 💬 Ask me about **C++, Python, HTML, CSS, JavaScript, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **akaniket5544@gmail.com**
 
